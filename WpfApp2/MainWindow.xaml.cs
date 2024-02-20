@@ -66,7 +66,6 @@ namespace WpfApp2
         private void BtnLogin_Click(object sender, RoutedEventArgs e)
         {
             ramka.Content = new AfterLogin();
-
         }
     }
 }
